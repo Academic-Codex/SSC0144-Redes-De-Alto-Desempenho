@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://academic-codex.github.io/SSC0144-Redes-De-Alto-Desempenho">
-    <img src=".github/readme/hero.svg?v=2025-12-26T02:58:04.115206Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2025-12-26T03:32:05.724406Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
